@@ -9,7 +9,6 @@
     font-size: 48px;
     font-weight: 300;
     margin: auto;
-
 }
 
 input {
@@ -24,8 +23,8 @@ input {
 }
 
 .text {  
-    padding: 20px;
     margin: auto;
+    padding: 10px;
 }
 .buton {
     width: 250px;
